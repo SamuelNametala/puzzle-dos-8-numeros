@@ -9,3 +9,8 @@ A regra do jogo diz que o jogador só pode movimentar uma das peças por vez, que 
 Projeto utilizando inteligência artificial para solucionar o problema do puzzle dos 8 números.
 Este projeto utiliza a busca A* com opção de duas heurísticas (peças fora do lugar e distancia de manhattan) para comparação.
 Após inicias o programa, o usuário deve embaralhar os números e em seguida, clicar em uma das opções (heurísticas) para que o sistema reorganize as peças obedecendo a regra do jogo.
+
+...::: Observações :::...
+
+Você pode baixar o arquivo "puzzle_dos_8_numeros.jar" para testar o projeto.
+O projeto foi desenvolvido no netbeans ide.
