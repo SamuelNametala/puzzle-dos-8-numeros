@@ -13,4 +13,4 @@ Após inicias o programa, o usuário deve embaralhar os números e em seguida, clic
 ...::: Observações :::...
 
 Você pode baixar o arquivo "puzzle_dos_8_numeros.jar" para testar o projeto.
-O projeto foi desenvolvido no netbeans ide.
+O projeto foi desenvolvido no NetBeans IDE.
